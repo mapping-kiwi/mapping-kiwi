@@ -5,4 +5,4 @@ This search eventually led me to study areas of **sustainability** and **physica
 
 My driving purpose comes from my love of the outdoors and longstanding passion to understand our Earth. This summer when I'm not working as a GIS Intern, I can be found on some local adventure hiking, trail running, and rock climbing in BC 🥾🧗🌲
 
-Currently, I am most interested in learning more about **Earth Observation** 🛰️ and **GeoAI** 🧠 - topics I'm certain will open opportunities to further my ongoing personal projects concerning coastal change monitoring 🌊 and a ML webmap tool inspired by my favourite app 🏃‍♀️ (stay tuned!)
+Currently, I am most interested in learning more about **Earth Observation** 🛰️ and **ML** 🧠 - topics I'm certain will open opportunities to further my ongoing personal projects concerning coastal change monitoring 🌊 and a ML webmap tool inspired by my favourite app 🏃‍♀️ (stay tuned!)
